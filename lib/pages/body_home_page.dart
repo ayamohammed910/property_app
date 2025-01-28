@@ -7,6 +7,8 @@ import '../widgets/custom_text.dart';
 class BodyHomePage extends StatelessWidget {
   const BodyHomePage({super.key});
 
+
+
   @override
   Widget build(BuildContext context) {
     return SafeArea( // Ensures the content is not overlapped by system UI
